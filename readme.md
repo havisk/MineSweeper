@@ -1,4 +1,4 @@
-To play Minesweeper, we will create instances of MineSweeperGame in command line.
+To play Minesweeper,  create instances of MineSweeperGame in command line.
 For example:
 In the command line, navigate to the lib directory and run `node`
 Run `.load game.js` to load the contents of this file.
